@@ -1,0 +1,7 @@
+Concepts:
+	* Dynamically typed (although Haskell's type system is to die for, maybe both?)
+	* Lists as main constructs
+	* Consistent function and variable naming (meta)
+	* (type) casting if it's needed (C# does some things right!)
+	* function argument-syntax like in Haskell
+	* NO HUNGARIAN NOTATION WHATSOEVER! (I'm looking at you PHP!)
