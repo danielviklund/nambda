@@ -1,0 +1,3 @@
+Dependencies:
+	* PLY-3.4 (http://www.dabeaz.com/ply/)
+	* Python 2.7
